@@ -1,4 +1,5 @@
 {
+    "type": "kohana-module",
     "config": {
         "vendor-dir": "vendor"
     },
