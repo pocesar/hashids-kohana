@@ -4,6 +4,7 @@
         "vendor-dir": "vendor"
     },
     "require": {
+        "composer/installers": "*",
         "hashids/hashids": "1.x"
     }
 }
