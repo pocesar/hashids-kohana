@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require": {
+        "hashids/hashids": "1.x"
+    }
+}
